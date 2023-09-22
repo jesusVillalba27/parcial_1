@@ -1,0 +1,224 @@
+.principal{
+    width: 70%;
+}
+
+.partnavs{
+
+    width: 100%;
+    display: flex;
+    background-color:#052962 ;
+}
+
+#partnasvs{
+
+color: white;
+font-size: 25px;
+border-left: solid 1px white;
+margin-right: 70px;
+margin-left: 10px;
+
+
+}
+
+#partnasvs1{
+color: white;
+font-size: 25px;
+margin-right: 70px;
+margin-left: 10px;
+
+}
+
+.bajonavs{
+
+    width: 100%;
+
+
+}
+
+#bajonavss{
+
+    margin-left: 10px;
+}
+
+.lineas{
+    height: 2px;
+    color: white;
+    width: 100%;
+    border-top: solid 1px grey;
+}
+.columna1{
+
+    width: 20%;
+}
+
+.columna2{
+
+    width: 60%;
+ 
+    margin-left: 10px;
+
+}
+
+.columna3{
+
+    width: 20%;
+}
+.contenedor{
+
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+}
+
+#pcolumna1{
+    
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+.columna1part1{
+    display: flex;
+    width: 100%;
+}
+
+#columna1part1img{
+
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+
+}
+
+#columna1part1p{
+
+    margin-left: 10px;
+    position: relative;
+    top: -6px;
+    right: -10px;
+
+}
+
+.columna1part2{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    border-top: solid 1px black;
+}
+.nubesita{
+    width: 100%;
+}
+
+.contenidonubesita{
+    position: relative;
+    width: 100%;
+    top: -10px;
+    right: -15px;
+}
+#columna1part2img{
+
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+}
+#columna1part2p{
+
+    font-size: 22px;
+    position: relative;
+    top: -15px;
+
+}
+
+.columna1part3{
+   
+    width: 100%;
+   display: flex;
+}
+.tablanube{
+    
+    width: 100%;
+    border-top: 1px solid black;
+    border-right: 1px solid black ;
+}
+.tablanubeexcep{
+    width: 25%;
+    border-top: 1px solid black;
+}
+
+#rodararriba{
+
+   position: relative;
+   top: -19px;
+}
+
+.columna1part4{
+    display: flex ;
+    width: 35%;
+}
+
+.part11{
+    background-color: #ab0613;
+    width: 100%;
+    display: flex;
+}
+.contenido11{
+
+    width: 35%;
+    display: flex;
+}
+.circulo{
+    background: #ffbac8;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+#titulo11{
+    margin-left: 5px;
+    position: relative;
+    top: -10px;
+    color: #ffbac8;
+}
+
+.imagen11{
+
+    width: 65%;
+}
+
+#p11s{
+    color:white ;
+
+    font-size: 25px;
+}
+
+.contenedortext11{
+    display: flex;
+    background-color: #ab0613;
+    width: 100%;
+    color: white;
+}
+
+.part11Text{
+
+    width: 33%;
+}
+
+.generalcontenetor{
+margin-top: 10px;
+    width: 100%;
+}
+
+.revelad{
+
+width: 60%;
+background-color: #f6f6f6;
+}
+
+.nagorno{
+
+    width: 40%;
+}
+
+#psabajo{
+
+    font-size: 25px;
+}
